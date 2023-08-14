@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_20230814_180650](https://github.com/Parth4007/flutter3_5_4/assets/136061832/9d9a25f0-d575-4497-8013-5c7ce4b401e2)
 
 <p>
-<img src="https://github.com/Parth4007/flutter3_5_4/assets/136061832/9d9a25f0-d575-4497-8013-5c7ce4b401e2" height="10" width="30" />
+<img src="https://github.com/Parth4007/flutter3_5_4/assets/136061832/9d9a25f0-d575-4497-8013-5c7ce4b401e2" width="30"  height="10"/>
 
   
 </p>
